@@ -2,7 +2,7 @@
 
 Vosso projetinho na matéria de Laboratório de Software
 
-Documentação Pedida no projeto:
+Documentação:
   
   - [ ] Requisitos de Sistema
   - [ ] Histórias de Usuário
