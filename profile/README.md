@@ -1,6 +1,10 @@
 # We Are Code Rangers 🦸‍♂️⚡🤖
 Projeto escolhido: IObra
 
+## Ferramenta Organizacional
+
+[ClickUP](https://app.clickup.com/9013110717/v/o/s/90130532112)
+
 ## Documentação
 
 - [ ] Requisitos de Sistema
