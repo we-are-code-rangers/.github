@@ -1,28 +1,40 @@
 # We Are Code Rangers 🦸‍♂️⚡🤖
+Projeto escolhido: IObra
 
-## Projeto escolhido: IObra
+## Documentação
 
-Vosso projetinho na matéria de Laboratório de Software
+- [ ] Requisitos de Sistema
+- [ ] Casos de Uso || Histórias de Usuário
+- [ ] System Design
+- [ ] Diagrama BMNP 2.0
 
+## Integrantes e suas Funções
 
+- [José Eduardo de Azevedo Ribeiro](https://www.github.com/eduzedo) - Documentação
+- [Natália Oliveira Reis](https://www.github.com/NataliaReiis) - Front-end e Documentação
+- [Marcell Dactes Andrade](https://www.github.com/marcelldac) - Back-end e QA
+- [Rafael Vasconcelos de Carvalho](https://www.github.com/RafaelCarvalhoxd) - Back-end e QA
+- [Juan Fernandes Freitas de Jesus](https://www.github.com/Juanffdejesus) - DBA
+- [Rodrigo Paradela do Amaral Ribeiro](https://www.github.com/Rodriparadela) - DBA
 
-Documentação:
-  
-  - [ ] Requisitos de Sistema
-  - [ ] Casos de Uso || Histórias de Usuário
-  - [ ] System Design
-  - [ ] Diagrama BMNP 2.0
+## Stack utilizada
 
-Atribuições:
-- José Eduardo de Azevedo Ribeiro (Documentação)
-- Natália Oliveira Reis (Front-end e Documentação)
-- Marcell Dactes Andrade (Back-end && QA)
-- Rafael Vasconcelos de Carvalho (Back-end && QA)
-- Juan Fernandes Freitas de Jesus (DBA)
-- Rodrigo Paradela do Amaral Ribeiro (DBA)
+**Front-end:** Typescript, React
 
-Stack:
-- Front-end: Typescript + React.js
-- Back-End: Typescript + Node.js
-- Quality: Jest
-- Database: A definir
+**Back-end:** Typescript, Node, Express
+
+**Quality:** Typescript, Jest
+
+**Database:** A definir
+
+## Deploy
+
+- Front-end: Vercel
+- Back-end: Render (A definir)
+- Database: Render (A definir)
+
+## Referências
+
+ - [Node JS Documentation](https://nodejs.org/docs/latest/api/)
+ - [Typescript Documentation](https://www.typescriptlang.org/docs/)
+ - [Jest Documentation](https://jestjs.io/docs/getting-started)
