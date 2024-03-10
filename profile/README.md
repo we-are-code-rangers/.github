@@ -19,7 +19,6 @@ Projeto escolhido: IObra
 - [Marcell Dactes Andrade](https://www.github.com/marcelldac) - Back-end e QA
 - [Rafael Vasconcelos de Carvalho](https://www.github.com/RafaelCarvalhoxd) - Back-end e QA
 - [Juan Fernandes Freitas de Jesus](https://www.github.com/Juanffdejesus) - DBA
-- [Rodrigo Paradela do Amaral Ribeiro](https://www.github.com/Rodriparadela) - DBA
 
 ## Stack utilizada
 
