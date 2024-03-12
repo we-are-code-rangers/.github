@@ -16,9 +16,11 @@ Projeto escolhido: IObra
 
 - [José Eduardo de Azevedo Ribeiro](https://www.github.com/eduzedo) - Documentação
 - [Natália Oliveira Reis](https://www.github.com/NataliaReiis) - Front-end e Documentação
+-  [Danilo Souza Barreto](https://github.com/daniloxzb) - Front-end
 - [Marcell Dactes Andrade](https://www.github.com/marcelldac) - Back-end e QA
 - [Rafael Vasconcelos de Carvalho](https://www.github.com/RafaelCarvalhoxd) - Back-end e QA
 - [Juan Fernandes Freitas de Jesus](https://www.github.com/Juanffdejesus) - DBA
+
 
 ## Stack utilizada
 
